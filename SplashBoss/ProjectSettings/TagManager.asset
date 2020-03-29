@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Platform
+  - DeathZone
+  - MoveZone
+  - Platform_1
+  - Platform_2
+  - First_Platform
+  - Coin
   layers:
   - Default
   - TransparentFX
@@ -13,8 +20,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Ground
+  - Platform
   - 
   - 
   - 

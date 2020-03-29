@@ -63,11 +63,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\MainMenuAssets\ControllerMenu.cs" />
-    <Compile Include="Assets\Scripts\BallController.cs" />
-    <Compile Include="Assets\Scripts\BallVFX.cs" />
-    <Compile Include="Assets\Scripts\InputData.cs" />
-    <Compile Include="Assets\Scripts\InputManager.cs" />
+    <Compile Include="Assets\Scripts\CoinCount.cs" />
+    <Compile Include="Assets\Scripts\ControllerUI.cs" />
+    <Compile Include="Assets\Scripts\MenuController.cs" />
+    <Compile Include="Assets\Scripts\MovementPlatform_1.cs" />
+    <Compile Include="Assets\Scripts\MovementPlatform_2.cs" />
+    <Compile Include="Assets\Scripts\MoveZone.cs" />
+    <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\PointCount.cs" />
+    <Compile Include="Assets\Scripts\Score.cs" />
+    <Compile Include="Assets\Scripts\SpawnCoin.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>E:/SplashBoss/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
